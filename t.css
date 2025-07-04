@@ -1,0 +1,10 @@
+body{
+    background: linear-gradient(90deg, rgb(228, 85, 133), rgb(226, 86, 184), rgb(233, 108, 222), rgb(228, 62, 159));
+         /*background-image: url(https://media.istockphoto.com/id/2148584082/photo/verde-guatemala-marble-texture-background-part-of-your-elegant-design-work-slab-photo-matt.jpg?s=612x612&w=0&k=20&c=2rkyo4Mf_2EdiX1aG6mB2Hcwi4_kMToacSjgzW2bqJ8=) ;*/
+        }
+h1,h2,h3{
+    text-align: center;
+}
+.centrar{
+    text-align: center;
+}
